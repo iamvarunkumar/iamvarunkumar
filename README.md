@@ -1,4 +1,4 @@
-### 👋 Hello, fellow tech enthusiasts! Welcome to my GitHub profile!
+## 👋 Hello, fellow tech enthusiasts! Welcome to my GitHub profile!
 
 🚀 I am a passionate and innovative data scientist with expertise in a wide range of technical skills. My journey in the realm of technology has equipped me with a diverse set of capabilities that span machine learning, optimization techniques, data cleaning, and more.
 
