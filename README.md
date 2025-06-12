@@ -16,7 +16,7 @@
 * **Founder & CTO @ Atrix.ai**
 * **Senior Analyst – Data Science @ Tiger Analytics**  
   Building risk-scoring, anomaly-detection & data-exfiltration pipelines that crunch terabytes inside Snowflake/Azure and surface insights in Sigma dashboards :contentReference[oaicite:2]{index=2}  
-* **3.7 yrs professional + MSc (Liverpool) + PG-DS (IIIT-B)**  
+* **6+ yrs professional + MSc (Liverpool) + PG-DS (IIIT-B)**  
 * **Toolbelt**: Python · PyTorch · scikit-learn · LightGBM · Docker · Azure ML · Snowflake · Dataiku · MLflow · LangChain · FastAPI · Streamlit  
 * **Fun fact**: Cut model latency 35% with TensorRT and boosted call-center collections 20 pp with ML-driven strategy :contentReference[oaicite:3]{index=3}  
 
