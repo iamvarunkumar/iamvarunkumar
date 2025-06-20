@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-* **Founder & CTO @ Atrix.ai**
+* **Founder & CTO @ Atrix.ai - Freelancing**
 * **Senior Analyst – Data Science @ Tiger Analytics**  
   Building risk-scoring, anomaly-detection & data-exfiltration pipelines that crunch terabytes inside Snowflake/Azure and surface insights in Sigma dashboards :contentReference[oaicite:2]{index=2}  
 * **6+ yrs professional + MSc (Liverpool) + PG-DS (IIIT-B)**  
