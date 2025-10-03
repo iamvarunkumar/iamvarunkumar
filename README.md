@@ -53,7 +53,6 @@
 ### 🏆 Highlights
 * Identified **25 % more high-risk users** via LightGBM-powered risk scorecard.  
 * Reduced manual SOC analysis **80 %** with fully-automated ML pipeline.  
-* Ranked **top 1 %** in Kaggle “Tabular Playground” series.
 
 ---
 
